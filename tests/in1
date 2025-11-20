@@ -1,0 +1,14 @@
+is_empty
+enqueue 1
+is_empty
+enqueue 2
+dequeue
+peek
+enqueue 3
+enqueue 4
+dequeue
+dequeue
+is_empty
+dequeue 
+is_empty
+exit

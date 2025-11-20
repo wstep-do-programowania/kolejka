@@ -1,0 +1,159 @@
+is_empty
+enqueue -862407726
+enqueue -182091611
+enqueue 846656422
+enqueue -157649419
+enqueue 533908618
+enqueue -638561165
+enqueue -559802693
+dequeue
+enqueue -642581924
+enqueue 52220106
+enqueue -15394062
+dequeue
+enqueue 960481683
+enqueue 145445800
+dequeue
+is_empty
+enqueue -452563136
+enqueue 256600664
+enqueue -969009634
+enqueue -433416681
+enqueue -511405743
+enqueue -532253103
+enqueue 867031563
+dequeue
+is_empty
+enqueue -1051976607
+enqueue 500562865
+peek
+enqueue 478912931
+enqueue 902791516
+enqueue 1020649430
+enqueue -454634305
+enqueue -69235905
+enqueue -249660391
+peek
+enqueue 145524159
+enqueue 303892759
+enqueue -976778763
+enqueue 188459308
+enqueue -801738013
+enqueue 487736060
+enqueue 869046560
+enqueue -1012127581
+enqueue 271849433
+enqueue -1027402523
+enqueue -124459868
+dequeue
+enqueue -1009084260
+peek
+enqueue 646221914
+is_empty
+enqueue -31439214
+is_empty
+enqueue 98441762
+enqueue 171623132
+dequeue
+peek
+enqueue 306075846
+dequeue
+enqueue 809822030
+enqueue -450315557
+enqueue 445165608
+enqueue 299823945
+dequeue
+is_empty
+dequeue
+enqueue -214866122
+enqueue 766930420
+enqueue -855679675
+is_empty
+enqueue -913356372
+enqueue 926526826
+enqueue -1027939195
+enqueue 903527356
+dequeue
+enqueue 798227546
+enqueue 292069241
+enqueue -808031907
+dequeue
+enqueue 628274514
+peek
+is_empty
+peek
+enqueue -20620910
+enqueue -860482373
+is_empty
+enqueue 564065830
+enqueue -938418524
+enqueue -784890222
+enqueue 523456072
+dequeue
+enqueue -791462673
+enqueue 678265145
+enqueue -666215320
+dequeue
+enqueue 410037878
+enqueue 934137953
+dequeue
+enqueue -647700300
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+exit
